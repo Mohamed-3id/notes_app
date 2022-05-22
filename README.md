@@ -1,3 +1,3 @@
-# My Notes
+# My Notes Application (UI)
 
-https://user-images.githubusercontent.com/73872615/169711960-05b154cc-b8c7-4694-887f-3695cf0433cc.mp4
+![My Notes Application](https://user-images.githubusercontent.com/73872615/169712372-ec53398b-f9b8-478d-b6dd-3e7c06bdd37f.gif)
